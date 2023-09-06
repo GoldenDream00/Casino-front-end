@@ -1,0 +1,10 @@
+{
+    "presets": ["next/babel"],
+    "plugins": ["import-glob-array"],
+    "env": {
+      "production": {
+        "plugins": ["transform-remove-console"]
+      }
+    }
+  }
+  

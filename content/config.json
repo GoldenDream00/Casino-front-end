@@ -1,0 +1,12 @@
+{
+  "name": "Odin Template",
+  "baseURL": "https://odin-gilt.vercel.app",
+  "title": "NIGOAL939 - Casino Online Plus",
+  "description": "Odin template is a robust & fast React landing page template for SaaS product using Chakra UI & Next.js",
+  "ogImage": "https://i.imgur.com/mdsDezM.jpg",
+  "bio": {
+    "avatarURL": "/static/avatar.jpeg",
+    "href": "https://twitter.com/d__raptis",
+    "name": "Jim Raptis"
+  }
+}

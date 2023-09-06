@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://odin-gilt.vercel.app/404</loc>
+  </url>
+
+  <url>
+    <loc>https://odin-gilt.vercel.app/features</loc>
+  </url>
+
+  <url>
+    <loc>https://odin-gilt.vercel.app</loc>
+  </url>
+
+  <url>
+    <loc>https://odin-gilt.vercel.app/pricing</loc>
+  </url>
+
+  <url>
+    <loc>https://odin-gilt.vercel.app/blog/hello-world</loc>
+  </url>
+
+  <url>
+    <loc>https://odin-gilt.vercel.app/blog/index</loc>
+  </url>
+
+  <url>
+    <loc>https://odin-gilt.vercel.app/blog/welcome</loc>
+  </url>
+</urlset>

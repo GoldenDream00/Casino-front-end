@@ -1,0 +1,27 @@
+{
+  "logoLight": "/static/logo-light.svg",
+  "logoDark": "/static/logo.svg",
+  "links": [
+    {
+      "href": "/",
+      "text": "หน้าหลัก"
+    },
+    {
+      "href": "/features",
+      "text": "โปรโมชั่น"
+    },
+    {
+      "href": "/pricing",
+      "text": "ยอดฮิต"
+    },
+    {
+      "href": "/blog",
+      "text": "บทความ"
+    },
+    {
+      "href": "https://app.nigoal939.com/Register/reg/anFvcDQ0aGJnOXZHcnU5WjJhWmk0dz09",
+      "text": "สมัครสมาชิก",
+      "isCTA": true
+    }
+  ]
+}

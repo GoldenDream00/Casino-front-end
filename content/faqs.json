@@ -1,0 +1,21 @@
+{
+  "title": "Frequently Asked Questions",
+  "faqs": [
+    {
+      "title": "What does the lifetime deal mean?",
+      "content": "It means that you get full access to Phigma and all its future updates with an one-time purchase."
+    },
+    {
+      "title": "Why payment methods do you accept?",
+      "content": "The product is offer via the Gumroad network. Gumroad accepts all the major credit and debit cards, and Paypal. Your payment info is processed securely by Gumroad and never touches our servers."
+    },
+    {
+      "title": "Can I refund my purchase?",
+      "content": "Sure. If you're not satisfied, send me an email me at jim@thelaunchchecklist.com within 24 hours. You'll get your money back. No questions asked. (But please, let me know what you didn't like about it since I'm committed to make Phigma as useful as possible.)"
+    },
+    {
+      "title": "Do you have more questions?",
+      "content": "Feel free to DM me at twitter @d__raptis or email me at jim@thelaunchchecklist.com. Always happy to help. Looking forward to hearing from you."
+    }
+  ]
+}

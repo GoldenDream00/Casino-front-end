@@ -1,0 +1,25 @@
+{
+  "title": "Pricing",
+  "subtitle": "Simple, transparent pricing.",
+  "plans": [
+    {
+      "name": "Free",
+      "description": "For Freelancers",
+      "price": 0,
+      "currency": "$",
+      "features": ["1 Section", "Limited Support", "Basic Feature1"],
+      "ctaText": "Try It Free",
+      "ctaLink": "/signup"
+    },
+    {
+      "name": "Pro",
+      "description": "For Entrepreneuers",
+      "price": 20,
+      "currency": "$",
+      "features": ["All Sections", "Future Updates", "Priority Support"],
+      "ctaText": "Subscribe",
+      "ctaLink": "/signup",
+      "isRecommended": true
+    }
+  ]
+}

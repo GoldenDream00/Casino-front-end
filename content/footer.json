@@ -1,0 +1,66 @@
+{
+  "logo": "/static/logo-light.svg",
+  "tagline": "NIGOAL939 - Casino Online Plus",
+  "cta": { "href": "/", "text": "สมัครสมาชิก" },
+  "social": [
+    {
+      "platform": "twitter",
+      "href": "https://www.twitter.com/d__raptis"
+    },
+    {
+      "platform": "facebook",
+      "href": "https://www.facebook.com"
+    },
+    {
+      "platform": "dribbble",
+      "href": "https://dribbble.com/dmraptis"
+    }
+  ],
+  "madeBy": {
+    "text": "NIGOAL939",
+    "href": "https://www.twitter.com/d__raptis"
+  },
+  "columns": [
+    {
+      "title": "Features",
+      "links": [
+        {
+          "title": "Best Practises",
+          "href": "/features"
+        },
+        {
+          "title": "SEO friendly",
+          "href": "/features"
+        },
+        { "title": "Easy Editing", "href": "/features" }
+      ]
+    },
+    {
+      "title": "Use Cases",
+      "links": [
+        { "title": "For Designers", "href": "/#" },
+        { "title": "For Developers", "href": "/#" },
+        { "title": "For Marketers", "href": "/#" },
+        {
+          "title": "For Illustrators",
+          "href": "/#"
+        },
+        {
+          "title": "For Entrepreneurs",
+          "href": "/#"
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "title": "About", "href": "/about" },
+        { "title": "Blog", "href": "/blog" },
+        { "title": "Changelog", "href": "/#" },
+        { "title": "Privacy Policy", "href": "/#" },
+        { "title": "Cookies Policy", "href": "/#" },
+        { "title": "Terms", "href": "/#" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "โปรโมชั่น",
+  "subtitle": "โปรโมชั่นใหม่ทุกสัปดาห์ ถูกใจนักล่าโปร",
+  "features": [
+    {
+      "subtitle": "เครดิตฟรี",
+      "title": "โปรสมัครใหม่ โบนัส 100%",
+      "content": "สมาชิกใหม่รับโบนัส 100% เมื่อเติมเงินครั้งแรก ฝาก 50 รับ 100 ฝาก 100 รับ 200 ฝาก 200 รับ 400 ฝาก 300 รับ 600",
+      "points": ["Team Members", "Sync", "Realtime"],
+      "image": "https://i.postimg.cc/wj2FdCRx/photo-2022-06-16-12-33-00.jpg",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "รับโปรโมชั่น"
+    },
+    {
+      "title": "โปรสมัครใหม่ โบนัส 50%",
+      "subtitle": "เครดิตฟรี",
+      "content": "สมาชิกใหม่รับโบนัส 50% เมื่อเติมเงินครั้งแรก ฝาก 300 รับ 450 บาท ฝาก 500 รับ 750 บาท ฝาก 1000 รับ 1500 บาท ",
+      "points": ["point 1", "point 2", "point 3"],
+      "image": "https://i.postimg.cc/hvwWMJgw/photo-2022-06-16-12-33-01.jpg",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "รับโปรโมชั่น"
+    },
+    {
+      "title": "รับโบนัสจากการเดิมพัน 1% ทุกยอดการเล่น",
+      "subtitle": "สะสมยอด",
+      "content": "รับโบนัสจากการเดิมพันของตัวเองและเพื่อน 1% ทุกยอดการเล่น",
+      "points": ["point 1", "point 2", "point 3"],
+      "image": "https://i.postimg.cc/FKsvrXPT/photo-2022-06-21-16-16-51.jpg",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "รับโปรโมชั่น"
+    },
+    {
+      "title": "คืนยอดเสีย 5% ทุกสัปดาห์",
+      "subtitle": "สะสมยอด",
+      "content": "คืนต่ำสุด 150 บาท คืนสูงสุด 5000 บาท",
+      "points": ["point 1", "point 2", "point 3"],
+      "image": "https://i.postimg.cc/VvT96wBn/1040-Ep70.png",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "รับโปรโมชั่น"
+    }
+  ]
+}

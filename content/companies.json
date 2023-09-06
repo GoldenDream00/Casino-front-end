@@ -1,0 +1,10 @@
+{
+  "title": "Used by 10000+ individual professionals and teams from large companies",
+  "logos": [
+    { "name": "Coca Cola", "src": "/static/coca-cola.svg" },
+    { "name": "Facebook", "src": "/static/facebook.svg" },
+    { "name": "Tesla", "src": "/static/tesla.svg" },
+    { "name": "Apple", "src": "/static/apple.svg" },
+    { "name": "Stripe", "src": "/static/stripe.svg" }
+  ]
+}
